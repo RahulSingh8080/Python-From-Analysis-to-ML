@@ -1,0 +1,6 @@
+id,name,email,email_status
+1,Rahul,rahul@gmail.com,Valid
+2,Amit,amit123gmail.com,Must contain . and @
+3,Neha,neha@domain.org,Valid
+4,Riya,@gmail.com,Must start & end with letter/digit
+5,Arjun,arjun@gmail.net,Valid
